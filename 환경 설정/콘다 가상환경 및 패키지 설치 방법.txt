@@ -26,3 +26,9 @@ $ conda install -c anaconda beautifulsoup4
 $ conda install -c conda-forge fake-useragent
 $ conda install openpyxl
 $ conda install dask
+$ conda install -c conda-forge folium
+$ conda install googlemaps
+
+
+conda list --export > packagelist.txt
+conda install --file packagelist.txt
