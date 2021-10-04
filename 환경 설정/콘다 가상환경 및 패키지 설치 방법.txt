@@ -1,0 +1,27 @@
+### miniconda를 사용하여 env 환경 생성하는 방법
+$ conda create -n ds_study python=3.8
+
+### miniconda env 환경 활성화
+$ conda activate ds_study
+
+### miniconda env 환경 비활성화
+$ conda deactivate
+
+### miniconda env 리스트 확인
+$ conda env list
+
+### miniconda env 삭제
+$ conda env remove -n [name]
+
+### 공통 사용할 패키지 설치
+$ conda install -y jupyter
+$ conda install -y ipython 
+$ conda install -y matplotlib
+$ conda install -y seaborn 
+$ conda install -y pandas
+$ conda install -y sklearn
+$ conda install -y xlrd
+$ conda install -c anaconda requests
+$ conda install -c anaconda beautifulsoup4
+$ conda install -c conda-forge fake-useragent
+$ conda install openpyxl
