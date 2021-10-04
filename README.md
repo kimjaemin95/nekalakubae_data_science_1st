@@ -8,6 +8,7 @@
 
 ## [ 파이썬 Daks ]
 - URL : https://devtimes.com/python-dask
+- URL : https://docs.dask.org/en/latest/
 
 ## [ 파이썬 Pyspark ]
 - URL : http://spark.apache.org/docs/latest/api/python/user_guide/index.html
