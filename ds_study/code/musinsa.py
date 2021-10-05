@@ -13,7 +13,7 @@ from selenium.webdriver.support import expected_conditions as EC
 
 # 옵션 설정
 options = webdriver.ChromeOptions()
-# options.add_argument("headless")
+options.add_argument("headless")
 
 url = "https://store.musinsa.com/app/"
 driver = webdriver.Chrome("../driver/chromedriver.exe", options=options)
