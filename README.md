@@ -7,7 +7,8 @@
 - Prophet 자료 : https://predictor-ver1.tistory.com/4
 - Microsoft C++ build tools : https://visualstudio.microsoft.com/ko/visual-cpp-build-tools/
 - StackOverflow fbprophet 종속성 관련 질문 : https://stackoverflow.com/questions/53178281/installing-fbprophet-python-on-windows-10
-
+- 기아(KIA) 주식 데이터 시계열 분석 연습 영상 : https://www.youtube.com/watch?v=RsC5NnqDFxg&list=PLJlUnZ1kDbt6BIjmVYwMmIW19VuotWq8R&index=2
+- [![파이썬을 이용한 KIA 주식 데이터 시계열 분석 연습](https://img.youtube.com/vi/RsC5NnqDFxg/0.jpg)](https://youtu.be/RsC5NnqDFxg)
 ---
 
 # 참고 
