@@ -34,4 +34,9 @@ conda list --export > packagelist.txt
 conda install --file packagelist.txt
 
 
+
+# 주피터 테마변경
 # https://realblack0.github.io/2020/05/13/jupyter-notebook-themes.html
+
+# 주피터 테마변경 2
+# https://bio-info.tistory.com/15
