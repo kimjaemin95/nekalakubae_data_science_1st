@@ -16,7 +16,11 @@
 
 [![파이썬을 이용한 KIA 주식 데이터 시계열 분석 연습](https://img.youtube.com/vi/RsC5NnqDFxg/0.jpg)](https://youtu.be/RsC5NnqDFxg)
 ---
+## 프로젝트 6번 : Python을 이용한 대한민국 코로나 방역 대응 수준 평가 분석
+- Kaggle Covid19 :   https://www.kaggle.com/therealcyberlord/coronavirus-covid-19-visualization-prediction/notebook
 
+[![Python을 이용한 대한민국 코로나 방역 대응 수준 평가 분석](https://img.youtube.com/vi/objsuVB8wzs/0.jpg)](https://youtu.be/objsuVB8wzs)
+---
 # 참고 
 ## [ 파이썬 Pandas ]
 - URL : https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html
